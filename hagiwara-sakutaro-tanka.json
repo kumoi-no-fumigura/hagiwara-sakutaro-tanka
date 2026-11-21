@@ -1414,10 +1414,10 @@
    "no": 91,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
-   "text": "母を失ひたる友に代りて",
+   "text": "何者か行方さへぎる夜毎夜毎。母と添寢の夢ならなくに。",
    "sachu": "",
    "poems": []
   },
@@ -1428,10 +1428,10 @@
    "no": 92,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
-   "text": "何者か行方さへぎる夜毎夜毎。母と添寢の夢ならなくに。",
+   "text": "夢の國は流もありて花さきて音よき鳥さへ住むと聞けども",
    "sachu": "",
    "poems": []
   },
@@ -1442,10 +1442,10 @@
    "no": 93,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
-   "text": "夢の國は流もありて花さきて音よき鳥さへ住むと聞けども",
+   "text": "ふる山のきこりをとこが瘤とりし鬼なつかしや舞はむともども",
    "sachu": "",
    "poems": []
   },
@@ -1456,10 +1456,10 @@
    "no": 94,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
-   "text": "ふる山のきこりをとこが瘤とりし鬼なつかしや舞はむともども",
+   "text": "牧の野の童に似たるあこがれが鞭もて死をば追ひ行くごとし",
    "sachu": "",
    "poems": []
   },
@@ -1470,21 +1470,7 @@
    "no": 95,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "牧の野の童に似たるあこがれが鞭もて死をば追ひ行くごとし",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000096",
-   "pid": "aozora",
-   "pages": [],
-   "no": 96,
-   "maki": "京の子なりき",
-   "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
    "text": "つめたげの眼百千は地にあれ愛にわが足る天の星星",
@@ -1506,16 +1492,30 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "京の子なりき",
+   "bu": "",
+   "dai": "母を失ひたる友に代りて",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手をあげて招けば肥えし野の牛も來りぬよりぬ何を語らむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000097",
    "pid": "aozora",
    "pages": [],
    "no": 97,
    "maki": "京の子なりき",
    "bu": "",
-   "dai": "",
+   "dai": "母を失ひたる友に代りて",
    "kotobagaki": "",
    "author": "",
-   "text": "手をあげて招けば肥えし野の牛も來りぬよりぬ何を語らむ",
+   "text": "朝櫻すこしこぼれぬ折からの歌もおはせば染め出で給へ",
    "sachu": "",
    "poems": []
   },
@@ -1524,20 +1524,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 98,
-   "maki": "京の子なりき",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "朝櫻すこしこぼれぬ折からの歌もおはせば染め出で給へ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000099",
-   "pid": "aozora",
-   "pages": [],
-   "no": 99,
    "maki": "夏衣",
    "bu": "",
    "dai": "",
@@ -1554,6 +1540,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "夏衣",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昔見し花ちる里の古き井にありける影や幼な君われ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000100",
    "pid": "aozora",
    "pages": [],
@@ -1563,7 +1563,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "昔見し花ちる里の古き井にありける影や幼な君われ。",
+   "text": "古山の木樵男が瘤とりし鬼なつかしや舞はむともども。",
    "sachu": "",
    "poems": []
   },
@@ -1577,7 +1577,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "古山の木樵男が瘤とりし鬼なつかしや舞はむともども。",
+   "text": "音なしう涙おさへてあればとて春の光はくれであらめや。",
    "sachu": "",
    "poems": []
   },
@@ -1591,7 +1591,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "音なしう涙おさへてあればとて春の光はくれであらめや。",
+   "text": "スラブみなしはがれ聲に御軍の吾たたへなむ日をも待つべし。",
    "sachu": "",
    "poems": []
   },
@@ -1600,20 +1600,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 103,
-   "maki": "夏衣",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "スラブみなしはがれ聲に御軍の吾たたへなむ日をも待つべし。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000104",
-   "pid": "aozora",
-   "pages": [],
-   "no": 104,
    "maki": "夏衣",
    "bu": "",
    "dai": "",
@@ -1630,6 +1616,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "夏衣",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小羊の頸ふる鈴の優し音に似しともききし野行く春風。",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000105",
    "pid": "aozora",
    "pages": [],
@@ -1639,7 +1639,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "小羊の頸ふる鈴の優し音に似しともききし野行く春風。",
+   "text": "人の歌は誦さむに寒ういたいたし。つめたければや胸たりるなし。",
    "sachu": "",
    "poems": []
   },
@@ -1653,7 +1653,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "人の歌は誦さむに寒ういたいたし。つめたければや胸たりるなし。",
+   "text": "ゆふ月のさせば武藏の母もきてありしむかしの夢さそふ夜や",
    "sachu": "",
    "poems": []
   },
@@ -1667,7 +1667,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "ゆふ月のさせば武藏の母もきてありしむかしの夢さそふ夜や",
+   "text": "月ふめばそぞろさびしき名はうせて濱の夕べををどり笑む人",
    "sachu": "",
    "poems": []
   },
@@ -1681,7 +1681,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "月ふめばそぞろさびしき名はうせて濱の夕べををどり笑む人",
+   "text": "慕ひ行くにそこは名の國智惠の國　二度おもふ戀はいづかた",
    "sachu": "",
    "poems": []
   },
@@ -1695,7 +1695,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "慕ひ行くにそこは名の國智惠の國　二度おもふ戀はいづかた",
+   "text": "あひ行くに秋雨ほそう道ほそし人よみ手なる傘をたまへな",
    "sachu": "",
    "poems": []
   },
@@ -1704,20 +1704,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 110,
-   "maki": "夏衣",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "あひ行くに秋雨ほそう道ほそし人よみ手なる傘をたまへな",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000111",
-   "pid": "aozora",
-   "pages": [],
-   "no": 111,
    "maki": "明治三十八年",
    "bu": "",
    "dai": "",
@@ -1734,6 +1720,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "明治三十八年",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あわただし燃ゆる炎の火車を忘れていにしつらき君かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000112",
    "pid": "aozora",
    "pages": [],
@@ -1743,7 +1743,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "あわただし燃ゆる炎の火車を忘れていにしつらき君かな",
+   "text": "ただ願ふ君の傍へにある日をば夢のやうなるその千年をば",
    "sachu": "",
    "poems": []
   },
@@ -1757,7 +1757,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "ただ願ふ君の傍へにある日をば夢のやうなるその千年をば",
+   "text": "われ君を戀はん戀しき心より君を思へば胸ただ火なり",
    "sachu": "",
    "poems": []
   },
@@ -1771,7 +1771,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "われ君を戀はん戀しき心より君を思へば胸ただ火なり",
+   "text": "綾唄やあるいは牛の遠鳴や、君まつ秋の野の更けにけり",
    "sachu": "",
    "poems": []
   },
@@ -1785,7 +1785,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "綾唄やあるいは牛の遠鳴や、君まつ秋の野の更けにけり",
+   "text": "風ふきぬ木の葉地をうつ秋の夜はまたるる君かさびしさ思へ",
    "sachu": "",
    "poems": []
   },
@@ -1794,20 +1794,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 116,
-   "maki": "明治三十八年",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "風ふきぬ木の葉地をうつ秋の夜はまたるる君かさびしさ思へ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000117",
-   "pid": "aozora",
-   "pages": [],
-   "no": 117,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1818,10 +1804,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000118",
+   "id": "hagiwara-sakutaro-tanka-000117",
    "pid": "aozora",
    "pages": [],
-   "no": 118,
+   "no": 117,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1846,10 +1832,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000119",
+   "id": "hagiwara-sakutaro-tanka-000118",
    "pid": "aozora",
    "pages": [],
-   "no": 119,
+   "no": 118,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1860,10 +1846,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000120",
+   "id": "hagiwara-sakutaro-tanka-000119",
    "pid": "aozora",
    "pages": [],
-   "no": 120,
+   "no": 119,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1880,10 +1866,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000121",
+   "id": "hagiwara-sakutaro-tanka-000120",
    "pid": "aozora",
    "pages": [],
-   "no": 121,
+   "no": 120,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1894,10 +1880,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000122",
+   "id": "hagiwara-sakutaro-tanka-000121",
    "pid": "aozora",
    "pages": [],
-   "no": 122,
+   "no": 121,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1908,10 +1894,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000123",
+   "id": "hagiwara-sakutaro-tanka-000122",
    "pid": "aozora",
    "pages": [],
-   "no": 123,
+   "no": 122,
    "maki": "ゑかたびら",
    "bu": "",
    "dai": "",
@@ -1928,6 +1914,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "ゑかたびら",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山百合の一輪うゑて人まつと、まつり日いでし好きあにびとよ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000124",
    "pid": "aozora",
    "pages": [],
@@ -1937,7 +1937,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "山百合の一輪うゑて人まつと、まつり日いでし好きあにびとよ。",
+   "text": "梅雨ばれの柳色ます門邊をば、草笛ふきて君よぎりぬと。",
    "sachu": "",
    "poems": []
   },
@@ -1951,7 +1951,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "梅雨ばれの柳色ます門邊をば、草笛ふきて君よぎりぬと。",
+   "text": "山吹の垣根つくりてある夕、少女すむ家と仲へだてけり。",
    "sachu": "",
    "poems": []
   },
@@ -1965,7 +1965,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "山吹の垣根つくりてある夕、少女すむ家と仲へだてけり。",
+   "text": "夕月や橋の袂に衣白き、人と別れぬ山百合のはな。",
    "sachu": "",
    "poems": []
   },
@@ -1979,7 +1979,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "夕月や橋の袂に衣白き、人と別れぬ山百合のはな。",
+   "text": "さくら貝、ふたつ重ねて海の趣味、いづれ深しと笑み問はれけり。",
    "sachu": "",
    "poems": []
   },
@@ -1988,20 +1988,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 128,
-   "maki": "ゑかたびら",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "さくら貝、ふたつ重ねて海の趣味、いづれ深しと笑み問はれけり。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000129",
-   "pid": "aozora",
-   "pages": [],
-   "no": 129,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2018,6 +2004,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "ろべりや",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏花に趣ある小家の人なれば面影に似し戀もする哉",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000130",
    "pid": "aozora",
    "pages": [],
@@ -2027,7 +2027,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "夏花に趣ある小家の人なれば面影に似し戀もする哉",
+   "text": "振袖の桔梗の花の色のよきなつかし人と涙もよほす",
    "sachu": "",
    "poems": []
   },
@@ -2041,7 +2041,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "振袖の桔梗の花の色のよきなつかし人と涙もよほす",
+   "text": "姉に似し女も見たるその家に撫子うゑむ京ぶりにして",
    "sachu": "",
    "poems": []
   },
@@ -2050,20 +2050,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 132,
-   "maki": "ろべりや",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "姉に似し女も見たるその家に撫子うゑむ京ぶりにして",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000133",
-   "pid": "aozora",
-   "pages": [],
-   "no": 133,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2080,10 +2066,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000134",
+   "id": "hagiwara-sakutaro-tanka-000133",
    "pid": "aozora",
    "pages": [],
-   "no": 134,
+   "no": 133,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2104,10 +2090,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000135",
+   "id": "hagiwara-sakutaro-tanka-000134",
    "pid": "aozora",
    "pages": [],
-   "no": 135,
+   "no": 134,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2124,10 +2110,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000136",
+   "id": "hagiwara-sakutaro-tanka-000135",
    "pid": "aozora",
    "pages": [],
-   "no": 136,
+   "no": 135,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2148,6 +2134,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "ろべりや",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほととぎす女に友の多くしてその音づれのたそがれの頃",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000137",
    "pid": "aozora",
    "pages": [],
@@ -2157,7 +2157,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "ほととぎす女に友の多くしてその音づれのたそがれの頃",
+   "text": "稻の穗は淺間かくすに丈たらず君と行く子に日は照りそへど",
    "sachu": "",
    "poems": []
   },
@@ -2171,7 +2171,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "稻の穗は淺間かくすに丈たらず君と行く子に日は照りそへど",
+   "text": "微風の歌語り吹く途すがら四の袖に螢おさへぬ",
    "sachu": "",
    "poems": []
   },
@@ -2180,20 +2180,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 139,
-   "maki": "ろべりや",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "微風の歌語り吹く途すがら四の袖に螢おさへぬ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000140",
-   "pid": "aozora",
-   "pages": [],
-   "no": 140,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2210,10 +2196,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000141",
+   "id": "hagiwara-sakutaro-tanka-000140",
    "pid": "aozora",
    "pages": [],
-   "no": 141,
+   "no": 140,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2238,10 +2224,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000142",
+   "id": "hagiwara-sakutaro-tanka-000141",
    "pid": "aozora",
    "pages": [],
-   "no": 142,
+   "no": 141,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2252,10 +2238,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000143",
+   "id": "hagiwara-sakutaro-tanka-000142",
    "pid": "aozora",
    "pages": [],
-   "no": 143,
+   "no": 142,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2276,10 +2262,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000144",
+   "id": "hagiwara-sakutaro-tanka-000143",
    "pid": "aozora",
    "pages": [],
-   "no": 144,
+   "no": 143,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2290,10 +2276,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000145",
+   "id": "hagiwara-sakutaro-tanka-000144",
    "pid": "aozora",
    "pages": [],
-   "no": 145,
+   "no": 144,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2310,10 +2296,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000146",
+   "id": "hagiwara-sakutaro-tanka-000145",
    "pid": "aozora",
    "pages": [],
-   "no": 146,
+   "no": 145,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2324,10 +2310,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000147",
+   "id": "hagiwara-sakutaro-tanka-000146",
    "pid": "aozora",
    "pages": [],
-   "no": 147,
+   "no": 146,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2348,10 +2334,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000148",
+   "id": "hagiwara-sakutaro-tanka-000147",
    "pid": "aozora",
    "pages": [],
-   "no": 148,
+   "no": 147,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2372,10 +2358,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000149",
+   "id": "hagiwara-sakutaro-tanka-000148",
    "pid": "aozora",
    "pages": [],
-   "no": 149,
+   "no": 148,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2386,10 +2372,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000150",
+   "id": "hagiwara-sakutaro-tanka-000149",
    "pid": "aozora",
    "pages": [],
-   "no": 150,
+   "no": 149,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2414,10 +2400,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000151",
+   "id": "hagiwara-sakutaro-tanka-000150",
    "pid": "aozora",
    "pages": [],
-   "no": 151,
+   "no": 150,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2434,10 +2420,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000152",
+   "id": "hagiwara-sakutaro-tanka-000151",
    "pid": "aozora",
    "pages": [],
-   "no": 152,
+   "no": 151,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2454,10 +2440,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000153",
+   "id": "hagiwara-sakutaro-tanka-000152",
    "pid": "aozora",
    "pages": [],
-   "no": 153,
+   "no": 152,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2474,10 +2460,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000154",
+   "id": "hagiwara-sakutaro-tanka-000153",
    "pid": "aozora",
    "pages": [],
-   "no": 154,
+   "no": 153,
    "maki": "ろべりや",
    "bu": "",
    "dai": "",
@@ -2494,6 +2480,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "窓に寄る日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "燈火のまへに君ありわれのありうれしけれども言の葉のなき",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000155",
    "pid": "aozora",
    "pages": [],
@@ -2503,7 +2503,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "燈火のまへに君ありわれのありうれしけれども言の葉のなき",
+   "text": "寒き日や胡瓜畑の霜を思ひ湯あみする窓を月のぞきけり",
    "sachu": "",
    "poems": []
   },
@@ -2517,7 +2517,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "寒き日や胡瓜畑の霜を思ひ湯あみする窓を月のぞきけり",
+   "text": "別れ居る心は淋しけだものを飼ひて生くべき日とよう似たる",
    "sachu": "",
    "poems": []
   },
@@ -2531,7 +2531,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "別れ居る心は淋しけだものを飼ひて生くべき日とよう似たる",
+   "text": "山の上に一人家する夢を見て寢ざめの床はうるほひにけり",
    "sachu": "",
    "poems": []
   },
@@ -2545,7 +2545,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "山の上に一人家する夢を見て寢ざめの床はうるほひにけり",
+   "text": "逢瀬山また口惡き博士等が見たまはずやと人のきづかひ",
    "sachu": "",
    "poems": []
   },
@@ -2559,7 +2559,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "逢瀬山また口惡き博士等が見たまはずやと人のきづかひ",
+   "text": "里川の底にうつれる星くづをいくつ數へて人にあふべき",
    "sachu": "",
    "poems": []
   },
@@ -2568,20 +2568,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 160,
-   "maki": "窓に寄る日",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "里川の底にうつれる星くづをいくつ數へて人にあふべき",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000161",
-   "pid": "aozora",
-   "pages": [],
-   "no": 161,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2602,10 +2588,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000162",
+   "id": "hagiwara-sakutaro-tanka-000161",
    "pid": "aozora",
    "pages": [],
-   "no": 162,
+   "no": 161,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2616,10 +2602,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000163",
+   "id": "hagiwara-sakutaro-tanka-000162",
    "pid": "aozora",
    "pages": [],
-   "no": 163,
+   "no": 162,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2636,10 +2622,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000164",
+   "id": "hagiwara-sakutaro-tanka-000163",
    "pid": "aozora",
    "pages": [],
-   "no": 164,
+   "no": 163,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2660,10 +2646,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000165",
+   "id": "hagiwara-sakutaro-tanka-000164",
    "pid": "aozora",
    "pages": [],
-   "no": 165,
+   "no": 164,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2680,10 +2666,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000166",
+   "id": "hagiwara-sakutaro-tanka-000165",
    "pid": "aozora",
    "pages": [],
-   "no": 166,
+   "no": 165,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
@@ -2694,16 +2680,30 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000167",
+   "id": "hagiwara-sakutaro-tanka-000166",
    "pid": "aozora",
    "pages": [],
-   "no": 167,
+   "no": 166,
    "maki": "ひまはりばな",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
    "text": "お染さまあれ久さまとより添ひてふたりゆく手に闇のあやなき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "水市覺有秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "むらさきす路上の花のちひさきを愛づるばかりにゆく車かな",
    "sachu": "",
    "poems": []
   },
@@ -2717,7 +2717,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "むらさきす路上の花のちひさきを愛づるばかりにゆく車かな",
+   "text": "千石の水あぶ心地日ぐらしの一時に啼きぬ木蔭路入れば",
    "sachu": "",
    "poems": []
   },
@@ -2731,7 +2731,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "千石の水あぶ心地日ぐらしの一時に啼きぬ木蔭路入れば",
+   "text": "海戀し山に登れば遠山は波のやうなり風の音さへ",
    "sachu": "",
    "poems": []
   },
@@ -2745,7 +2745,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "海戀し山に登れば遠山は波のやうなり風の音さへ",
+   "text": "櫻貝二つ竝べて海の趣味いづれ深しと笑み問はれけり",
    "sachu": "",
    "poems": []
   },
@@ -2754,20 +2754,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 171,
-   "maki": "水市覺有秋",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "櫻貝二つ竝べて海の趣味いづれ深しと笑み問はれけり",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000172",
-   "pid": "aozora",
-   "pages": [],
-   "no": 172,
    "maki": "水市覺有秋",
    "bu": "",
    "dai": "",
@@ -2784,10 +2770,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000173",
+   "id": "hagiwara-sakutaro-tanka-000172",
    "pid": "aozora",
    "pages": [],
-   "no": 173,
+   "no": 172,
    "maki": "水市覺有秋",
    "bu": "",
    "dai": "",
@@ -2804,10 +2790,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000174",
+   "id": "hagiwara-sakutaro-tanka-000173",
    "pid": "aozora",
    "pages": [],
-   "no": 174,
+   "no": 173,
    "maki": "水市覺有秋",
    "bu": "",
    "dai": "",
@@ -2818,10 +2804,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000175",
+   "id": "hagiwara-sakutaro-tanka-000174",
    "pid": "aozora",
    "pages": [],
-   "no": 175,
+   "no": 174,
    "maki": "明治四十二年",
    "bu": "",
    "dai": "",
@@ -2832,10 +2818,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000176",
+   "id": "hagiwara-sakutaro-tanka-000175",
    "pid": "aozora",
    "pages": [],
-   "no": 176,
+   "no": 175,
    "maki": "明治四十二年",
    "bu": "",
    "dai": "",
@@ -2852,6 +2838,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "明治四十三年",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ばらばらとせまき路地より女どもはしりかかりぬにぐるひまなし",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000177",
    "pid": "aozora",
    "pages": [],
@@ -2861,7 +2861,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "ばらばらとせまき路地より女どもはしりかかりぬにぐるひまなし",
+   "text": "たのしされどやや足らはぬよ譬ふれば序樂をきかぬオペラみるごと",
    "sachu": "",
    "poems": []
   },
@@ -2875,7 +2875,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "たのしされどやや足らはぬよ譬ふれば序樂をきかぬオペラみるごと",
+   "text": "夕さればそぞろありきす銃器屋のまへに立ちてはピストルをみる",
    "sachu": "",
    "poems": []
   },
@@ -2889,7 +2889,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "夕さればそぞろありきす銃器屋のまへに立ちてはピストルをみる",
+   "text": "死なんとて蹈切近く來しときに汽車の煙をみて逃げ出しき",
    "sachu": "",
    "poems": []
   },
@@ -2903,7 +2903,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "死なんとて蹈切近く來しときに汽車の煙をみて逃げ出しき",
+   "text": "始めての床に女を抱く如きものめづらしき怖れなるかな",
    "sachu": "",
    "poems": []
   },
@@ -2917,7 +2917,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "始めての床に女を抱く如きものめづらしき怖れなるかな",
+   "text": "春の夜は芝居の下座のすりがねを叩く男もうらやましけれ",
    "sachu": "",
    "poems": []
   },
@@ -2931,7 +2931,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "春の夜は芝居の下座のすりがねを叩く男もうらやましけれ",
+   "text": "祭の日寢あかぬ床に寺寺の鐘きく如きもののたのしさ",
    "sachu": "",
    "poems": []
   },
@@ -2945,7 +2945,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "祭の日寢あかぬ床に寺寺の鐘きく如きもののたのしさ",
+   "text": "ひるすぎの HOTEL の窓に COCOA のみくづれし崖のあかつちをみる",
    "sachu": "",
    "poems": []
   },
@@ -2954,20 +2954,6 @@
    "pid": "aozora",
    "pages": [],
    "no": 184,
-   "maki": "明治四十三年",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ひるすぎの HOTEL の窓に COCOA のみくづれし崖のあかつちをみる",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000185",
-   "pid": "aozora",
-   "pages": [],
-   "no": 185,
    "maki": "明治四十三年",
    "bu": "",
    "dai": "",
@@ -2984,6 +2970,20 @@
    ]
   },
   {
+   "id": "hagiwara-sakutaro-tanka-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "明治四十三年",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寒き風吹くと思ひぬ故郷の赤城の牧の古榎より",
+   "sachu": "",
+   "poems": []
+  },
+  {
    "id": "hagiwara-sakutaro-tanka-000186",
    "pid": "aozora",
    "pages": [],
@@ -2993,7 +2993,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "寒き風吹くと思ひぬ故郷の赤城の牧の古榎より",
+   "text": "幼き日パン買ひに行きし店先の額のイエスをいまも忘れず",
    "sachu": "",
    "poems": []
   },
@@ -3007,7 +3007,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "幼き日パン買ひに行きし店先の額のイエスをいまも忘れず",
+   "text": "二月や笛の稽古に通ひたる故郷の町の橋のうす雪",
    "sachu": "",
    "poems": []
   },
@@ -3021,7 +3021,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "二月や笛の稽古に通ひたる故郷の町の橋のうす雪",
+   "text": "清元の神田祭のメロデイに似たる戀しぬたちばなの花",
    "sachu": "",
    "poems": []
   },
@@ -3035,7 +3035,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "清元の神田祭のメロデイに似たる戀しぬたちばなの花",
+   "text": "行く春の淡き悲しみいそつぷの蛙のはらの破れたる音",
    "sachu": "",
    "poems": []
   },
@@ -3049,7 +3049,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "行く春の淡き悲しみいそつぷの蛙のはらの破れたる音",
+   "text": "忘られず活動寫眞の幕切れにパリの大路を横ぎりしひと",
    "sachu": "",
    "poems": []
   },
@@ -3063,7 +3063,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "忘られず活動寫眞の幕切れにパリの大路を横ぎりしひと",
+   "text": "しかれども悲劇の中の道化役の一人として我は生くべき",
    "sachu": "",
    "poems": []
   },
@@ -3077,7 +3077,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "しかれども悲劇の中の道化役の一人として我は生くべき",
+   "text": "わが妹初戀すとは面白しオーケストラの若き笛ふき",
    "sachu": "",
    "poems": []
   },
@@ -3091,7 +3091,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "わが妹初戀すとは面白しオーケストラの若き笛ふき",
+   "text": "日まはりの雄々しき花も此の國の人はかなしく捨てたまふ哉",
    "sachu": "",
    "poems": []
   },
@@ -3100,12 +3100,12 @@
    "pid": "aozora",
    "pages": [],
    "no": 194,
-   "maki": "明治四十三年",
+   "maki": "明治四十四年",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "日まはりの雄々しき花も此の國の人はかなしく捨てたまふ哉",
+   "text": "欄に寄り酒をふくめば盃の底にも秋の愁ただよふ",
    "sachu": "",
    "poems": []
   },
@@ -3119,7 +3119,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "欄に寄り酒をふくめば盃の底にも秋の愁ただよふ",
+   "text": "赤城山鹿の子まだらに雪ふれば故郷びとも門松を立つ",
    "sachu": "",
    "poems": []
   },
@@ -3133,7 +3133,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "赤城山鹿の子まだらに雪ふれば故郷びとも門松を立つ",
+   "text": "町内の屋臺を引きし赤だすき十四の夏が戀の幕あき",
    "sachu": "",
    "poems": []
   },
@@ -3147,7 +3147,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "町内の屋臺を引きし赤だすき十四の夏が戀の幕あき",
+   "text": "薄暗き酒場の隅に在るひとが我に教へし道ならぬ道",
    "sachu": "",
    "poems": []
   },
@@ -3161,7 +3161,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "薄暗き酒場の隅に在るひとが我に教へし道ならぬ道",
+   "text": "砂山の枯草の上を我が行けば蟲力なく足下に飛ぶ",
    "sachu": "",
    "poems": []
   },
@@ -3175,7 +3175,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "砂山の枯草の上を我が行けば蟲力なく足下に飛ぶ",
+   "text": "悲しみて二月の海に來て見れば浪うち際を犬の歩ける",
    "sachu": "",
    "poems": []
   },
@@ -3189,7 +3189,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "悲しみて二月の海に來て見れば浪うち際を犬の歩ける",
+   "text": "かのベンチ海を見て居りかのベンチ日毎悲しき人待ちて居り",
    "sachu": "",
    "poems": []
   },
@@ -3203,7 +3203,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "かのベンチ海を見て居りかのベンチ日毎悲しき人待ちて居り",
+   "text": "縁端に疲れし顏の煙草吸ふ教師の家の庭のこすもす",
    "sachu": "",
    "poems": []
   },
@@ -3212,12 +3212,12 @@
    "pid": "aozora",
    "pages": [],
    "no": 202,
-   "maki": "明治四十四年",
+   "maki": "大正二年",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "縁端に疲れし顏の煙草吸ふ教師の家の庭のこすもす",
+   "text": "なにを蒔くひめひぐるまの種を蒔く君を思へと涙してまく",
    "sachu": "",
    "poems": []
   },
@@ -3231,7 +3231,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "なにを蒔くひめひぐるまの種を蒔く君を思へと涙してまく",
+   "text": "なにごとも花あかしやの木影にて君まつ春の夜にしくはなし",
    "sachu": "",
    "poems": []
   },
@@ -3245,7 +3245,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "なにごとも花あかしやの木影にて君まつ春の夜にしくはなし",
+   "text": "うちわびてはこべを摘むも淡雪の消なまく人を思ふものゆゑ",
    "sachu": "",
    "poems": []
   },
@@ -3259,7 +3259,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "うちわびてはこべを摘むも淡雪の消なまく人を思ふものゆゑ",
+   "text": "しののめのまだきに起きて人妻と汽車の窓よりみたるひるがほ",
    "sachu": "",
    "poems": []
   },
@@ -3273,7 +3273,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "しののめのまだきに起きて人妻と汽車の窓よりみたるひるがほ",
+   "text": "ふきあげの水のこぼれを命にてそよぎて咲けるひやしんすの花",
    "sachu": "",
    "poems": []
   },
@@ -3287,7 +3287,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "ふきあげの水のこぼれを命にてそよぎて咲けるひやしんすの花",
+   "text": "たちわかれひとつひとつに葉柳のしづくに濡れて行く俥かな",
    "sachu": "",
    "poems": []
   },
@@ -3301,7 +3301,7 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "たちわかれひとつひとつに葉柳のしづくに濡れて行く俥かな",
+   "text": "きのふけふ心ひとつに咲くばかりろべりやばかりかなしきはなし",
    "sachu": "",
    "poems": []
   },
@@ -3310,14 +3310,24 @@
    "pid": "aozora",
    "pages": [],
    "no": 209,
-   "maki": "大正二年",
+   "maki": "一群の鳥",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "きのふけふ心ひとつに咲くばかりろべりやばかりかなしきはなし",
+   "text": "遠く行く一群の鳥かへりみて我を想へば涙はてなし。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    8,
+    13
+   ],
+   "ruby": [
+    {
+     "a": "群",
+     "r": "ぐん"
+    }
+   ]
   },
   {
    "id": "hagiwara-sakutaro-tanka-000210",
@@ -3329,14 +3339,12 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "遠く行く一群の鳥",
+   "text": "悲しくも人に隱れて故郷に歌などつくる我の果敢なさ。",
    "sachu": "",
    "poems": [],
-   "ruby": [
-    {
-     "a": "群",
-     "r": "ぐん"
-    }
+   "lb": [
+    9,
+    18
    ]
   },
   {
@@ -3349,9 +3357,13 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "かへりみて",
+   "text": "寂しさに少しく慣れてなにがなしこの田舍をば好しと思へり。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ]
   },
   {
    "id": "hagiwara-sakutaro-tanka-000212",
@@ -3363,9 +3375,19 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "我を想へば涙はてなし。",
+   "text": "かの遠き赤城を望むわが部屋の窓に咲きたる木犀の花。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    9,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "木犀",
+     "r": "もくせい"
+    }
+   ]
   },
   {
    "id": "hagiwara-sakutaro-tanka-000213",
@@ -3377,9 +3399,13 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "悲しくも人に隱れて",
+   "text": "クロバアの上に寢ころび空ばかり眺めてありし中學の庭。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    11,
+    21
+   ]
   },
   {
    "id": "hagiwara-sakutaro-tanka-000214",
@@ -3391,9 +3417,19 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "故郷に歌などつくる",
+   "text": "ともすれば學校を休み泣き濡れて小出の林を歩きし昔。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "小出",
+     "r": "こいで"
+    }
+   ]
   },
   {
    "id": "hagiwara-sakutaro-tanka-000215",
@@ -3405,217 +3441,13 @@
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "我の果敢なさ。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000216",
-   "pid": "aozora",
-   "pages": [],
-   "no": 216,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "寂しさに少しく慣れて",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000217",
-   "pid": "aozora",
-   "pages": [],
-   "no": 217,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "なにがなし",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000218",
-   "pid": "aozora",
-   "pages": [],
-   "no": 218,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "この田舍をば好しと思へり。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000219",
-   "pid": "aozora",
-   "pages": [],
-   "no": 219,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "かの遠き赤城を望む",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000220",
-   "pid": "aozora",
-   "pages": [],
-   "no": 220,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "わが部屋の窓に咲きたる",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000221",
-   "pid": "aozora",
-   "pages": [],
-   "no": 221,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "木犀の花。",
+   "text": "その昔よく逢曳したる公園の側の波宜亭今も尚あり。",
    "sachu": "",
    "poems": [],
-   "ruby": [
-    {
-     "a": "木犀",
-     "r": "もくせい"
-    }
-   ]
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000222",
-   "pid": "aozora",
-   "pages": [],
-   "no": 222,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "クロバアの上に寢ころび",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000223",
-   "pid": "aozora",
-   "pages": [],
-   "no": 223,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "空ばかり眺めてありし",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000224",
-   "pid": "aozora",
-   "pages": [],
-   "no": 224,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "中學の庭。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000225",
-   "pid": "aozora",
-   "pages": [],
-   "no": 225,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ともすれば學校を休み",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000226",
-   "pid": "aozora",
-   "pages": [],
-   "no": 226,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "泣き濡れて",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000227",
-   "pid": "aozora",
-   "pages": [],
-   "no": 227,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "小出の林を歩きし昔。",
-   "sachu": "",
-   "poems": [],
-   "ruby": [
-    {
-     "a": "小出",
-     "r": "こいで"
-    }
-   ]
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000228",
-   "pid": "aozora",
-   "pages": [],
-   "no": 228,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "その昔よく逢曳したる",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000229",
-   "pid": "aozora",
-   "pages": [],
-   "no": 229,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "公園の側の波宜亭",
-   "sachu": "",
-   "poems": [],
+   "lb": [
+    10,
+    18
+   ],
    "ruby": [
     {
      "a": "公園",
@@ -3632,144 +3464,60 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000230",
+   "id": "hagiwara-sakutaro-tanka-000216",
    "pid": "aozora",
    "pages": [],
-   "no": 230,
+   "no": 216,
    "maki": "一群の鳥",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "今も尚あり。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000231",
-   "pid": "aozora",
-   "pages": [],
-   "no": 231,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "酒のめど",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000232",
-   "pid": "aozora",
-   "pages": [],
-   "no": 232,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "このごろ醉はぬさびしさ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000233",
-   "pid": "aozora",
-   "pages": [],
-   "no": 233,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "うたへども",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000234",
-   "pid": "aozora",
-   "pages": [],
-   "no": 234,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ああああ遂に涙出でざり。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000235",
-   "pid": "aozora",
-   "pages": [],
-   "no": 235,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "いまも尚",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000236",
-   "pid": "aozora",
-   "pages": [],
-   "no": 236,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "歌つくることを止めぬや",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000237",
-   "pid": "aozora",
-   "pages": [],
-   "no": 237,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "かく問ひし",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000238",
-   "pid": "aozora",
-   "pages": [],
-   "no": 238,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "わが古き友の嘲りの色。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000239",
-   "pid": "aozora",
-   "pages": [],
-   "no": 239,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "新昇のサロンに來り",
+   "text": "酒のめどこのごろ醉はぬさびしさうたへどもああああ遂に涙出でざり。",
    "sachu": "",
    "poems": [],
+   "lb": [
+    4,
+    15,
+    20
+   ]
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000217",
+   "pid": "aozora",
+   "pages": [],
+   "no": 217,
+   "maki": "一群の鳥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いまも尚歌つくることを止めぬやかく問ひしわが古き友の嘲りの色。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15,
+    20
+   ]
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000218",
+   "pid": "aozora",
+   "pages": [],
+   "no": 218,
+   "maki": "一群の鳥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "新昇のサロンに來り夜おそく口笛を吹く我のいとしさ。",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    13
+   ],
    "ruby": [
     {
      "a": "新昇",
@@ -3778,60 +3526,22 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000240",
+   "id": "hagiwara-sakutaro-tanka-000219",
    "pid": "aozora",
    "pages": [],
-   "no": 240,
+   "no": 219,
    "maki": "一群の鳥",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "夜おそく",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000241",
-   "pid": "aozora",
-   "pages": [],
-   "no": 241,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "口笛を吹く我のいとしさ。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000242",
-   "pid": "aozora",
-   "pages": [],
-   "no": 242,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "時にふと",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000243",
-   "pid": "aozora",
-   "pages": [],
-   "no": 243,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "盃杯を投げてすすり泣く",
+   "text": "時にふと盃杯を投げてすすり泣くいとほしやと母も流石思へり。",
    "sachu": "",
    "poems": [],
+   "lb": [
+    4,
+    15
+   ],
    "ruby": [
     {
      "a": "盃杯",
@@ -3840,53 +3550,27 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000244",
+   "id": "hagiwara-sakutaro-tanka-000220",
    "pid": "aozora",
    "pages": [],
-   "no": 244,
+   "no": 220,
    "maki": "一群の鳥",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "いとほしやと母も流石思へり。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000245",
-   "pid": "aozora",
-   "pages": [],
-   "no": 245,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "米專の店に飾れる",
+   "text": "米專の店に飾れる馬鹿面の人形に我が似しと思ふ悲しさ。",
    "sachu": "",
    "poems": [],
+   "lb": [
+    8,
+    20
+   ],
    "ruby": [
     {
      "a": "米專",
      "r": "こめせん"
-    }
-   ]
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000246",
-   "pid": "aozora",
-   "pages": [],
-   "no": 246,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "馬鹿面の人形に我が似しと",
-   "sachu": "",
-   "poems": [],
-   "ruby": [
+    },
     {
      "a": "人形",
      "r": "にんぎやう"
@@ -3894,66 +3578,28 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000247",
+   "id": "hagiwara-sakutaro-tanka-000221",
    "pid": "aozora",
    "pages": [],
-   "no": 247,
+   "no": 221,
    "maki": "一群の鳥",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "思ふ悲しさ。",
+   "text": "公園のベンチにもたれ哀しみて遠き淺間の煙を眺む。",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    10,
+    14
+   ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000248",
+   "id": "hagiwara-sakutaro-tanka-000222",
    "pid": "aozora",
    "pages": [],
-   "no": 248,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "公園のベンチにもたれ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000249",
-   "pid": "aozora",
-   "pages": [],
-   "no": 249,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "哀しみて",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000250",
-   "pid": "aozora",
-   "pages": [],
-   "no": 250,
-   "maki": "一群の鳥",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "遠き淺間の煙を眺む。",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000251",
-   "pid": "aozora",
-   "pages": [],
-   "no": 251,
+   "no": 222,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -3964,10 +3610,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000252",
+   "id": "hagiwara-sakutaro-tanka-000223",
    "pid": "aozora",
    "pages": [],
-   "no": 252,
+   "no": 223,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -3978,10 +3624,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000253",
+   "id": "hagiwara-sakutaro-tanka-000224",
    "pid": "aozora",
    "pages": [],
-   "no": 253,
+   "no": 224,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -3998,10 +3644,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000254",
+   "id": "hagiwara-sakutaro-tanka-000225",
    "pid": "aozora",
    "pages": [],
-   "no": 254,
+   "no": 225,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -4012,10 +3658,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000255",
+   "id": "hagiwara-sakutaro-tanka-000226",
    "pid": "aozora",
    "pages": [],
-   "no": 255,
+   "no": 226,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -4026,10 +3672,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000256",
+   "id": "hagiwara-sakutaro-tanka-000227",
    "pid": "aozora",
    "pages": [],
-   "no": 256,
+   "no": 227,
    "maki": "あひびき",
    "bu": "",
    "dai": "",
@@ -4040,10 +3686,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000257",
+   "id": "hagiwara-sakutaro-tanka-000228",
    "pid": "aozora",
    "pages": [],
-   "no": 257,
+   "no": 228,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4060,10 +3706,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000258",
+   "id": "hagiwara-sakutaro-tanka-000229",
    "pid": "aozora",
    "pages": [],
-   "no": 258,
+   "no": 229,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4074,10 +3720,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000259",
+   "id": "hagiwara-sakutaro-tanka-000230",
    "pid": "aozora",
    "pages": [],
-   "no": 259,
+   "no": 230,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4088,10 +3734,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000260",
+   "id": "hagiwara-sakutaro-tanka-000231",
    "pid": "aozora",
    "pages": [],
-   "no": 260,
+   "no": 231,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4102,10 +3748,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000261",
+   "id": "hagiwara-sakutaro-tanka-000232",
    "pid": "aozora",
    "pages": [],
-   "no": 261,
+   "no": 232,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4126,38 +3772,27 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000262",
+   "id": "hagiwara-sakutaro-tanka-000233",
    "pid": "aozora",
    "pages": [],
-   "no": 262,
+   "no": 233,
    "maki": "秋思",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "古き日の秋",
+   "text": "古き日の秋（昔うたへる歌）",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    5
+   ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000263",
+   "id": "hagiwara-sakutaro-tanka-000234",
    "pid": "aozora",
    "pages": [],
-   "no": 263,
-   "maki": "秋思",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "（昔うたへる歌）",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000264",
-   "pid": "aozora",
-   "pages": [],
-   "no": 264,
+   "no": 234,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4168,10 +3803,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000265",
+   "id": "hagiwara-sakutaro-tanka-000235",
    "pid": "aozora",
    "pages": [],
-   "no": 265,
+   "no": 235,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4192,10 +3827,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000266",
+   "id": "hagiwara-sakutaro-tanka-000236",
    "pid": "aozora",
    "pages": [],
-   "no": 266,
+   "no": 236,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4212,10 +3847,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000267",
+   "id": "hagiwara-sakutaro-tanka-000237",
    "pid": "aozora",
    "pages": [],
-   "no": 267,
+   "no": 237,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4226,10 +3861,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000268",
+   "id": "hagiwara-sakutaro-tanka-000238",
    "pid": "aozora",
    "pages": [],
-   "no": 268,
+   "no": 238,
    "maki": "秋思",
    "bu": "",
    "dai": "",
@@ -4246,41 +3881,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000269",
+   "id": "hagiwara-sakutaro-tanka-000239",
    "pid": "aozora",
    "pages": [],
-   "no": 269,
+   "no": 239,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "我がなつかしき",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000270",
-   "pid": "aozora",
-   "pages": [],
-   "no": 270,
-   "maki": "辨慶",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "魚屋のベンケイに",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000271",
-   "pid": "aozora",
-   "pages": [],
-   "no": 271,
-   "maki": "辨慶",
-   "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "橋側の安酒場こそまたなけれべんけいも來て醉ひて唄へる",
@@ -4302,13 +3909,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000272",
+   "id": "hagiwara-sakutaro-tanka-000240",
    "pid": "aozora",
    "pages": [],
-   "no": 272,
+   "no": 240,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "醉ひどれのかの辨慶も秋くれば路傍に立ちて物を思へり",
@@ -4322,13 +3929,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000273",
+   "id": "hagiwara-sakutaro-tanka-000241",
    "pid": "aozora",
    "pages": [],
-   "no": 273,
+   "no": 241,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "あはれなる色氣狂の魚屋が我に教へしさのさ節かな",
@@ -4342,13 +3949,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000274",
+   "id": "hagiwara-sakutaro-tanka-000242",
    "pid": "aozora",
    "pages": [],
-   "no": 274,
+   "no": 242,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "辨慶の赤き小鼻を晩秋の酒場の軒に見るが哀しさ",
@@ -4362,13 +3969,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000275",
+   "id": "hagiwara-sakutaro-tanka-000243",
    "pid": "aozora",
    "pages": [],
-   "no": 275,
+   "no": 243,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "居酒屋の暗き床をばみつめつつ何思ふらむかかる男は",
@@ -4376,13 +3983,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000276",
+   "id": "hagiwara-sakutaro-tanka-000244",
    "pid": "aozora",
    "pages": [],
-   "no": 276,
+   "no": 244,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "ほの暗き床にこぼれし酒を見てふとべんけいが叫び出せり",
@@ -4390,13 +3997,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000277",
+   "id": "hagiwara-sakutaro-tanka-000245",
    "pid": "aozora",
    "pages": [],
-   "no": 277,
+   "no": 245,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
    "text": "淫らなるかの辨慶の諧謔も秋の酒場にきけば悲しも",
@@ -4404,38 +4011,27 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000278",
+   "id": "hagiwara-sakutaro-tanka-000246",
    "pid": "aozora",
    "pages": [],
-   "no": 278,
+   "no": 246,
    "maki": "辨慶",
    "bu": "",
-   "dai": "",
+   "dai": "魚屋のベンケイに",
    "kotobagaki": "",
    "author": "",
-   "text": "いかばかり悲しく彼が眺むらむ酒場の窓の赤き落日",
+   "text": "いかばかり悲しく彼が眺むらむ酒場の窓の赤き落日（一九一三、一〇、酒場にて）",
    "sachu": "",
-   "poems": []
+   "poems": [],
+   "lb": [
+    23
+   ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000279",
+   "id": "hagiwara-sakutaro-tanka-000247",
    "pid": "aozora",
    "pages": [],
-   "no": 279,
-   "maki": "辨慶",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "（一九一三、一〇、酒場にて）",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000280",
-   "pid": "aozora",
-   "pages": [],
-   "no": 280,
+   "no": 247,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4446,10 +4042,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000281",
+   "id": "hagiwara-sakutaro-tanka-000248",
    "pid": "aozora",
    "pages": [],
-   "no": 281,
+   "no": 248,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4460,10 +4056,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000282",
+   "id": "hagiwara-sakutaro-tanka-000249",
    "pid": "aozora",
    "pages": [],
-   "no": 282,
+   "no": 249,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4474,10 +4070,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000283",
+   "id": "hagiwara-sakutaro-tanka-000250",
    "pid": "aozora",
    "pages": [],
-   "no": 283,
+   "no": 250,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4488,10 +4084,10 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000284",
+   "id": "hagiwara-sakutaro-tanka-000251",
    "pid": "aozora",
    "pages": [],
-   "no": 284,
+   "no": 251,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4508,10 +4104,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000285",
+   "id": "hagiwara-sakutaro-tanka-000252",
    "pid": "aozora",
    "pages": [],
-   "no": 285,
+   "no": 252,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4528,10 +4124,10 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000286",
+   "id": "hagiwara-sakutaro-tanka-000253",
    "pid": "aozora",
    "pages": [],
-   "no": 286,
+   "no": 253,
    "maki": "酒場の窓",
    "bu": "",
    "dai": "",
@@ -4552,27 +4148,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000287",
+   "id": "hagiwara-sakutaro-tanka-000254",
    "pid": "aozora",
    "pages": [],
-   "no": 287,
+   "no": 254,
    "maki": "酒場の窓",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "（以下公園にて）",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000288",
-   "pid": "aozora",
-   "pages": [],
-   "no": 288,
-   "maki": "酒場の窓",
-   "bu": "",
-   "dai": "",
+   "dai": "（以下公園にて）",
    "kotobagaki": "",
    "author": "",
    "text": "晩秋の我が故郷の公園を悲しく今日も歩むなりけり",
@@ -4586,13 +4168,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000289",
+   "id": "hagiwara-sakutaro-tanka-000255",
    "pid": "aozora",
    "pages": [],
-   "no": 289,
+   "no": 255,
    "maki": "酒場の窓",
    "bu": "",
-   "dai": "",
+   "dai": "（以下公園にて）",
    "kotobagaki": "",
    "author": "",
    "text": "グラウンドの芝生の上に乘り捨てし自轉車の柄の光る夕ぐれ",
@@ -4600,18 +4182,21 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000290",
+   "id": "hagiwara-sakutaro-tanka-000256",
    "pid": "aozora",
    "pages": [],
-   "no": 290,
+   "no": 256,
    "maki": "酒場の窓",
    "bu": "",
-   "dai": "",
+   "dai": "（以下公園にて）",
    "kotobagaki": "",
    "author": "",
-   "text": "公園の碑石に手を觸れ哀しめる心つめたく泣き出したり",
+   "text": "公園の碑石に手を觸れ哀しめる心つめたく泣き出したり（故郷前橋にて）",
    "sachu": "",
    "poems": [],
+   "lb": [
+    25
+   ],
    "ruby": [
     {
      "a": "碑石",
@@ -4620,47 +4205,18 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000291",
+   "id": "hagiwara-sakutaro-tanka-000257",
    "pid": "aozora",
    "pages": [],
-   "no": 291,
-   "maki": "酒場の窓",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "（故郷前橋にて）",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000292",
-   "pid": "aozora",
-   "pages": [],
-   "no": 292,
+   "no": 257,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "小引",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000293",
-   "pid": "aozora",
-   "pages": [],
-   "no": null,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "小引",
    "kotobagaki": "",
    "author": "",
    "text": "古歌のこころのなつかしさよ、わけて新古今詠嘆の調、匂高きは夕闇の園に咲くアラセイトオのたぐひなるべし。官能の疲れを苦蓬酒の盃に啜り象徴のあやかしを珈琲の煙に夢みる近代の騷客、ともすれば純情の心雅びかなる古巣にのがれて此の古き歌集の手觸りに廢唐のやるせなき風流を學ばんとす。げにや新人のモツトオに觸れデカダン樂派の新星グリークがピアノの律に啜泣く定家卿選歌の心ばかり世にあはれ深きはあらじかし。",
    "sachu": "",
    "poems": [],
-   "jo": true,
    "ruby": [
     {
      "a": "苦蓬酒",
@@ -4673,41 +4229,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000294",
+   "id": "hagiwara-sakutaro-tanka-000258",
    "pid": "aozora",
    "pages": [],
-   "no": 293,
+   "no": 258,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "×",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000295",
-   "pid": "aozora",
-   "pages": [],
-   "no": 294,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "淡雪",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000296",
-   "pid": "aozora",
-   "pages": [],
-   "no": 295,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "淡雪",
    "kotobagaki": "",
    "author": "",
    "text": "うら侘びてはこべを摘むも淡雪の消なまく人を思ふものゆゑ",
@@ -4715,27 +4243,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000297",
+   "id": "hagiwara-sakutaro-tanka-000259",
    "pid": "aozora",
    "pages": [],
-   "no": 296,
+   "no": 259,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "アカシヤ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000298",
-   "pid": "aozora",
-   "pages": [],
-   "no": 297,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "アカシヤ",
    "kotobagaki": "",
    "author": "",
    "text": "なにごとも花あかしやの木影にてきみ待つ春の夜にしくはなし",
@@ -4743,41 +4257,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000299",
+   "id": "hagiwara-sakutaro-tanka-000260",
    "pid": "aozora",
    "pages": [],
-   "no": 298,
+   "no": 260,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "水のほとりのあづまや",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000300",
-   "pid": "aozora",
-   "pages": [],
-   "no": 299,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "悲しき別れの日に",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000301",
-   "pid": "aozora",
-   "pages": [],
-   "no": 300,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "悲しき別れの日に",
    "kotobagaki": "",
    "author": "",
    "text": "けふすぎて水際に咲けるべこにやもいかでか風にそよぎ泣くらむ",
@@ -4791,27 +4277,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000302",
+   "id": "hagiwara-sakutaro-tanka-000261",
    "pid": "aozora",
    "pages": [],
-   "no": 301,
+   "no": 261,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "くれがた",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000303",
-   "pid": "aozora",
-   "pages": [],
-   "no": 302,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "くれがた",
    "kotobagaki": "",
    "author": "",
    "text": "あづさ弓かへらぬひとの戀しさに暮れそめて降る雪のはかなさ",
@@ -4819,27 +4291,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000304",
+   "id": "hagiwara-sakutaro-tanka-000262",
    "pid": "aozora",
    "pages": [],
-   "no": 303,
+   "no": 262,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "うすらひ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000305",
-   "pid": "aozora",
-   "pages": [],
-   "no": 304,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "うすらひ",
    "kotobagaki": "",
    "author": "",
    "text": "めづらしき薄氷を見て裝ぞける宮城野部屋のけさのきぬぎぬ",
@@ -4847,27 +4305,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000306",
+   "id": "hagiwara-sakutaro-tanka-000263",
    "pid": "aozora",
    "pages": [],
-   "no": 305,
+   "no": 263,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ベコニヤ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000307",
-   "pid": "aozora",
-   "pages": [],
-   "no": 306,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "ベコニヤ",
    "kotobagaki": "",
    "author": "",
    "text": "うぐひすの池邊に鳴けば夜をこめて枕邊に散る白きべこにや",
@@ -4881,27 +4325,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000308",
+   "id": "hagiwara-sakutaro-tanka-000264",
    "pid": "aozora",
    "pages": [],
-   "no": 307,
+   "no": 264,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "菊",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000309",
-   "pid": "aozora",
-   "pages": [],
-   "no": 308,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "菊",
    "kotobagaki": "",
    "author": "",
    "text": "みちもせに俥俥と行きかへる今日しも菊の節會なるらむ",
@@ -4909,27 +4339,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000310",
+   "id": "hagiwara-sakutaro-tanka-000265",
    "pid": "aozora",
    "pages": [],
-   "no": 309,
+   "no": 265,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "橋の上にも柳ちりかふ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000311",
-   "pid": "aozora",
-   "pages": [],
-   "no": 310,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "橋の上にも柳ちりかふ",
    "kotobagaki": "",
    "author": "",
    "text": "ゑねちやのごんどらびともしづ心なくてや柳散りすぎにけり",
@@ -4937,27 +4353,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000312",
+   "id": "hagiwara-sakutaro-tanka-000266",
    "pid": "aozora",
    "pages": [],
-   "no": 311,
+   "no": 266,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "題しらず",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000313",
-   "pid": "aozora",
-   "pages": [],
-   "no": 312,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "題しらず",
    "kotobagaki": "",
    "author": "",
    "text": "こころばへやさしき人とくれがたの水のほとりを歩むなりけり",
@@ -4965,27 +4367,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000314",
+   "id": "hagiwara-sakutaro-tanka-000267",
    "pid": "aozora",
    "pages": [],
-   "no": 313,
+   "no": 267,
    "maki": "古今新調",
    "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "バルコンの隅",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000315",
-   "pid": "aozora",
-   "pages": [],
-   "no": 314,
-   "maki": "古今新調",
-   "bu": "",
-   "dai": "",
+   "dai": "バルコンの隅",
    "kotobagaki": "",
    "author": "",
    "text": "人はいさ知るや知らめや短か夜の月の出窓にくちづけしこと",
@@ -4993,144 +4381,72 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000316",
+   "id": "hagiwara-sakutaro-tanka-000268",
    "pid": "aozora",
    "pages": [],
-   "no": 315,
+   "no": 268,
    "maki": "『草稿ノート』『書簡』より",
    "bu": "",
    "dai": "",
    "kotobagaki": "",
    "author": "",
-   "text": "いとゆふのかげともほしやひとのとふ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000317",
-   "pid": "aozora",
-   "pages": [],
-   "no": 316,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "みづきはばかりうすあかりして",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000318",
-   "pid": "aozora",
-   "pages": [],
-   "no": 317,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "亞米利加國ナイヤガラ瀑布ノ景",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000319",
-   "pid": "aozora",
-   "pages": [],
-   "no": 318,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "あかねさす山のあなたにぼうぼうと",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000320",
-   "pid": "aozora",
-   "pages": [],
-   "no": 319,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "おほいなる瀧のおつるなりけり",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000321",
-   "pid": "aozora",
-   "pages": [],
-   "no": 320,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "阿蘭國アムステルダムノ景",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000322",
-   "pid": "aozora",
-   "pages": [],
-   "no": 321,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "かがやける青空の上をものいはぬ",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000323",
-   "pid": "aozora",
-   "pages": [],
-   "no": 322,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ぎやまん屋敷まんとるの異人",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000324",
-   "pid": "aozora",
-   "pages": [],
-   "no": 323,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "うららかに俥俥と行きかへる",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000325",
-   "pid": "aozora",
-   "pages": [],
-   "no": 324,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "けふしも年の初會なるらむ",
+   "text": "いとゆふのかげともほしやひとのとふみづきはばかりうすあかりして",
    "sachu": "",
    "poems": [],
+   "lb": [
+    17
+   ]
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000269",
+   "pid": "aozora",
+   "pages": [],
+   "no": 269,
+   "maki": "『草稿ノート』『書簡』より",
+   "bu": "",
+   "dai": "亞米利加國ナイヤガラ瀑布ノ景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかねさす山のあなたにぼうぼうとおほいなる瀧のおつるなりけり",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16
+   ]
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000270",
+   "pid": "aozora",
+   "pages": [],
+   "no": 270,
+   "maki": "『草稿ノート』『書簡』より",
+   "bu": "",
+   "dai": "阿蘭國アムステルダムノ景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かがやける青空の上をものいはぬぎやまん屋敷まんとるの異人",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15
+   ]
+  },
+  {
+   "id": "hagiwara-sakutaro-tanka-000271",
+   "pid": "aozora",
+   "pages": [],
+   "no": 271,
+   "maki": "『草稿ノート』『書簡』より",
+   "bu": "",
+   "dai": "阿蘭國アムステルダムノ景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うららかに俥俥と行きかへるけふしも年の初會なるらむ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13
+   ],
    "ruby": [
     {
      "a": "初會",
@@ -5139,32 +4455,21 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000326",
+   "id": "hagiwara-sakutaro-tanka-000272",
    "pid": "aozora",
    "pages": [],
-   "no": 325,
+   "no": 272,
    "maki": "『草稿ノート』『書簡』より",
    "bu": "",
-   "dai": "",
+   "dai": "阿蘭國アムステルダムノ景",
    "kotobagaki": "",
    "author": "",
-   "text": "うらうらに俥俥とゆきかへる",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "hagiwara-sakutaro-tanka-000327",
-   "pid": "aozora",
-   "pages": [],
-   "no": 326,
-   "maki": "『草稿ノート』『書簡』より",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "けふしも年の初會なるらむ",
+   "text": "うらうらに俥俥とゆきかへるけふしも年の初會なるらむ",
    "sachu": "",
    "poems": [],
+   "lb": [
+    13
+   ],
    "ruby": [
     {
      "a": "初會",
@@ -5173,13 +4478,13 @@
    ]
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000328",
+   "id": "hagiwara-sakutaro-tanka-000273",
    "pid": "aozora",
    "pages": [],
-   "no": 327,
+   "no": 273,
    "maki": "『草稿ノート』『書簡』より",
    "bu": "",
-   "dai": "",
+   "dai": "阿蘭國アムステルダムノ景",
    "kotobagaki": "",
    "author": "",
    "text": "緑なす浪の江の島夢にして人と降り來し岩屋道かな",
@@ -5187,13 +4492,13 @@
    "poems": []
   },
   {
-   "id": "hagiwara-sakutaro-tanka-000329",
+   "id": "hagiwara-sakutaro-tanka-000274",
    "pid": "aozora",
    "pages": [],
-   "no": 328,
+   "no": 274,
    "maki": "『草稿ノート』『書簡』より",
    "bu": "",
-   "dai": "",
+   "dai": "阿蘭國アムステルダムノ景",
    "kotobagaki": "",
    "author": "",
    "text": "はかなしや病ひ癒えざる枕べに七日咲きたる白百合の花",
@@ -5210,12 +4515,12 @@
   "era": "明治時代",
   "author": "萩原朔太郎",
   "kind": "kashu",
-  "blocks": 329,
-  "chars": 7409,
-  "poems": 328,
+  "blocks": 274,
+  "chars": 7289,
+  "poems": 274,
   "yaku": 0,
   "editions": 1,
   "updated": "2026-11-22",
-  "updated_at": "2026-11-22T02:24:36+09:00"
+  "updated_at": "2026-11-22T03:24:44+09:00"
  }
 }
